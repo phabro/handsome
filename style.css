@@ -2,14 +2,14 @@
 img{width:100%;height:100%;}
 *{margin:0px;padding:0px;border:0px;color:white;font-size:18px;border-radius:0.2em;}
 
+add 
 /*--首页--*/
-.nav{position:absolute;top:55px;width:150px;height:50px;font-size:30px;color:white;line-height:50px; text-align:center; vertical-align:middle;font-weight:900;}
-
+delete
 /*--列表--*/
 .title{position:relative; top:-60px;height:40px;font-size:25px; line-height:40px;background:url(img/titleBg.png); text-align:center;border-radius:0px 0px 0px 0px;}
 
 /*--详情--*/
-.text0{position:absolute;left:360px;width:300px;height:40px;font-size:23px; text-align:left;color:#cdcdcd;}
+.text0{update:absolute;left:360px;width:300px;height:40px;font-size:23px; text-align:left;color:#cdcdcd;}
 .playBtn{position:absolute;top:400px;width:200px;height:100px;}
 .recommend{position:absolute;top:510px;width:120px;height:170px;display:none;}
 .exitBg{position:absolute;top:90px;width:120px;height:170px;}
